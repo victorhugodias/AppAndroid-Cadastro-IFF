@@ -1,7 +1,5 @@
 # Projeto Desenvolvido para o curso de android do Instituto Federal de São Paulo.  
 #### Descrição do Sistema.
-Descrição do Projeto Final
-
 
 Desenvolva uma aplicação para Android que contenha no mínimo duas Activity:
 (1) uma para a tela inicial de apresentação; 
